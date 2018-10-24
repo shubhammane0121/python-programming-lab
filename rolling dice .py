@@ -1,3 +1,7 @@
+# Shantanu Tale
+#Gr-11810363
+#roll no- M-64
+#Division-M
 import random 
 
 question = input('Would you like to roll the dice [y/n]?\n') 
