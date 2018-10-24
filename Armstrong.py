@@ -1,3 +1,7 @@
+# Shantanu Tale
+#Gr-11810363
+#roll no- M-64
+#Division-M
 num=int(input("Enter a number:"))
 sum = 0
 temp = num
