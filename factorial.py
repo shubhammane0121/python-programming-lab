@@ -1,3 +1,7 @@
+# Shantanu Tale
+#Gr-11810363
+#roll no- M-64
+#Division-M
 num = int(input("enter a number: "))
 fac = 1
 for i in range(1, num + 1): 
