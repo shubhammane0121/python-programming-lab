@@ -1,3 +1,7 @@
+# Shantanu Tale
+#Gr-11810363
+#roll no- M-64
+#Division-M
 def strrev(x):
  y='' 
  l=len(x) 
