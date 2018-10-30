@@ -1,9 +1,11 @@
-# Shantanu Tale
-#Gr-11810363
-#roll no- M-64
-#Division-M
-num = int(input("enter a number: "))
-fac = 1
-for i in range(1, num + 1): 
- fac = fac * i
-print("factorial of ", num, " is ", fac)
+n=int(input("enter a no.:"))
+f=1
+if n<0:
+       print("enter a positive no.:")
+elif n==0 or n==1:
+       print("1")
+else:
+       while n>1:
+               f=f*n
+               n=n-1
+       print(f)
