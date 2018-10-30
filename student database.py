@@ -1,6 +1,6 @@
-# Shantanu Tale
-#Gr-11810363
-#roll no- M-64
+#shubham mane
+#Gr 111810247
+#roll no- M-38
 #Division-M
 name=input("enter your name")
 rollno=input('enter your roll no')
