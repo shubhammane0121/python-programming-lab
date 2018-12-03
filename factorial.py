@@ -1,3 +1,8 @@
+#shubham mane
+#factorial.py
+#38
+#M
+#11810247
 n=int(input("enter a no.:"))
 f=1
 if n<0:
