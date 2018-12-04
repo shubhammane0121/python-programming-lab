@@ -1,14 +1,24 @@
-# Shubham Mane
-#Gr-11810247
-#roll no- M-38
-#Division-M
-num=int(input("Enter a number:"))
-sum = 0
-temp = num
-while temp > 0: 
- digit = temp % 10 
- sum += digit ** 3 
- temp //= 10
-if num == sum: 
- print(num,"is an Armstrong number")
-else: print(num,"is not an Armstrong number")
+
+#shubham mane
+#11810247 M38
+n=int(input())
+l=[]
+a=0
+b=1
+count=1
+if n==0:
+   print("s1")
+elif n==1:
+   print('0','1')
+else :
+   l.append(0)
+   l.append(1)
+   while count<=n-2:
+      l.append(a+b)
+      c=a+b
+      a=b
+      b=c
+      count+=1
+print(l)      
+
+
